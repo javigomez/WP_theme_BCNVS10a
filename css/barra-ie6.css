@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* Barra corporativa 2012 - Ie6
+ */
+#brand.v2012 {
+  zoom: 1; }
+#brand.v2012 .brand-wrapper .search form, #brand.v2012 .brand-wrapper .search #brand-search {
+  display: inline; }
+#brand.v2012 .brand-wrapper .navigation ul.options .more ul li, #brand.v2012 .brand-wrapper .navigation ul.social .title, #brand.v2012 .brand-wrapper .navigation ul.languages .title {
+  display: inline;
+  zoom: 1; }
+#brand.v2012 .brand-wrapper .navigation ul.options .more ul li {
+  padding-left: 6px; }
+#brand.v2012 .brand-wrapper .navigation ul.social .title, #brand.v2012 .brand-wrapper .navigation ul.languages .title {
+  display: inline;
+  float: left;
+  overflow: hidden; }
+#brand.v2012 .brand-wrapper .navigation ul.social .title span, #brand.v2012 .brand-wrapper .navigation ul.social .title .arrow, #brand.v2012 .brand-wrapper .navigation ul.languages .title span, #brand.v2012 .brand-wrapper .navigation ul.languages .title .arrow {
+  zoom: 1; }
+#brand.v2012 .brand-wrapper .navigation ul.social .title span, #brand.v2012 .brand-wrapper .navigation ul.languages .title span {
+  display: inline;
+  float: none;
+  height: 20px;
+  margin-top: 3px;
+  width: 104px; }
+#brand.v2012 .brand-wrapper .navigation ul.social .title .arrow, #brand.v2012 .brand-wrapper .navigation ul.languages .title .arrow {
+  display: none; }
+#brand.v2012 .brand-wrapper .search form {
+  zoom: 1; }
+#brand.v2012 .brand-wrapper .search form #brand-search {
+  height: 14px; }
+
+#brand.collapsed .navigation ul.options .more {
+  overflow: hidden; }

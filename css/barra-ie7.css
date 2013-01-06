@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* Barra corporativa 2012 - Ie7
+ */
+#brand.v2012 {
+  zoom: 1; }
+#brand.v2012 .brand-wrapper .search form {
+  display: inline; }
+#brand.v2012 .brand-wrapper .navigation ul.options .more ul li {
+  display: inline; }
+#brand.v2012 .brand-wrapper .navigation ul.options .more ul li {
+  padding-left: 6px; }
+#brand.v2012 .brand-wrapper .navigation ul.social .title span, #brand.v2012 .brand-wrapper .navigation ul.languages .title span {
+  overflow: hidden;
+  text-align: center;
+  width: 84px;
+  line-height: 1.2; }
+#brand.v2012 .brand-wrapper .search form #brand-search {
+  height: 15px; }
+
+#brand.collapsed .navigation ul.options .more {
+  overflow: hidden; }
